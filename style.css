@@ -1,0 +1,36 @@
+
+
+.navbar-brand{
+    background:#4aaaa5;
+}
+
+.nav-item{
+border-left:1px solid #efefef;
+}
+
+
+.myheader{
+    color:#4aaaa5;
+}
+
+header{
+    border-bottom: 2px solid #ccc;
+
+}
+
+.display-4{
+    color:#4aaaa5;
+    border-bottom: 3px solid #ddd;
+    font-weight: 700px;
+}
+
+.wrapper{
+        background-image: url("images/concrete_seamless.png");
+    }
+
+body{
+    font-family: Arial, Helvetica, sans-serif;
+    color: #777;
+    line-height: 34px;
+    font-size: 18px;
+}
